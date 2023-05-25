@@ -1,4 +1,9 @@
-﻿namespace Kellogg_RoboDialer
+﻿// Nicci Kellogg
+// IT112
+// NOTES: I think I have a decent understanding of constructor chaining now. I need to keep practicing using private instance data though.
+// BEHAVIORS NOT IMPLIMENTED AND WHY: I believe I implimented all of the required behaviors in this project.
+
+namespace Kellogg_RoboDialer
 {
 	internal class Program
 	{
