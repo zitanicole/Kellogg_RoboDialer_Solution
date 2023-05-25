@@ -12,7 +12,7 @@ namespace Kellogg_RoboDialer
 		{
 
 		}
-
+		
 		public override string Dial()
 		{
 			return company + " is being dialed using 1+" + phoneNum + "...";

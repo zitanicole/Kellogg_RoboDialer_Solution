@@ -24,7 +24,6 @@ namespace Kellogg_RoboDialer
 		public string phoneType
 		{ get { return _phoneType; } }
 		
-
 		public virtual string Dial()
 		{
 			return "Dialing Phone Number (XXX) XXX-XXXX";
